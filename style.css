@@ -4,6 +4,14 @@
     box-sizing: border-box;
     outline: none;
 }
+
+.stopwatch{
+    position: relative;
+    border: solid white;
+    border-radius: 25px;
+    box-shadow: black;
+    padding: 40px 50px;
+}
 body{
     font-family: sans-serif;
     font-size: 16px;
